@@ -22,7 +22,7 @@ To perform a standalone run,use:
 
 `gradle bootRun`
 
-### API Documentationcurl -X GET --header "Accept: */*" "http://localhost:8081/1/position"
+### API Documentation
 
 * [Swagger Local API Link](http://localhost:8081/swagger-ui.html)
 
